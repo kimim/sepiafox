@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "PaperFox",
+    "version": "1.0",
+
+    "description": "firefox looks like a paper.",
+
+    "theme": {
+        "colors": {
+            "frame": "#e4dcc8",
+            "tab_background_text": "#000000",
+            "ntp_background": "#f4ecd8",
+            "toolbar_field": "#e4dcc8",
+            "toolbar_field_focus": "#f4ecd8"
+
+        }
+    }
+}
